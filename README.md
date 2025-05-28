@@ -17,6 +17,7 @@ mystery = input("Would you like to buy our limited edition mystery box with 3 ra
 if mystery == "yes":
 
     merchandise()
+    print(merchandise())
 else:
     print("Okay, continue")
 
