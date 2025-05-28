@@ -1,1 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Y49tTL6w)
+
+
+
+
+
+This program is for an ice cream shop where people can order off of the menu and choose what they want to order off the menu. This program automates the process by asking the user what they would like to order, and how much of it they would like to order, and eventually calculating the price of what they are going to order. 
+
+```python codecodecode ```
